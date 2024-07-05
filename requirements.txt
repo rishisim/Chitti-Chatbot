@@ -1,0 +1,9 @@
+ langchain-huggingface
+ huggingface_hub
+ transformers
+ accelerate
+ bitsandbytes
+ langchain
+ langchain-community
+ langchain-chroma
+ langchain-core
