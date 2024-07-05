@@ -1,3 +1,5 @@
+![imageedit_1_9895710374](https://github.com/rishisim/Chitti-Chatbot/assets/86998121/d51afa78-3f48-4b02-a202-39807470f54d)
+
 # A Brief About Chitti Chatbot: AIoT SMART Labs Assistant
 Chitti is a chatbot that can help you answer questions about the IoT Summer Program, Projects in the program curriculum, Innovations of AIoT SMART Labs, Certification process and more! Ask Chitti at [Chitti Chatbot: AIoT SMART Labs Assistant](https://www.aiotsmartlabs.com/innovations/chitti-chatbot)
 
