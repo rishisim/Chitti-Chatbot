@@ -196,7 +196,7 @@ gr.ChatInterface(
 
 
 # # TO USE GOOGLE MODELS
-# # api_key = "AIzaSyCdM_aAIsW_nPbjarOF83mbX1_z1cVX2_M"
+# # api_key = "google_api_key"
 
 # # llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key=api_key)
 # # llm = GooglePalm(google_api_key = api_key, temperature=0.7)
@@ -262,7 +262,7 @@ gr.ChatInterface(
 # from langchain_huggingface import HuggingFaceEmbeddings
 
 
-# api_key = "AIzaSyCdM_aAIsW_nPbjarOF83mbX1_z1cVX2_M"
+# api_key = "google_api_key"
 
 # llm = GooglePalm(google_api_key = api_key, temperature=0.7)
 
@@ -311,7 +311,7 @@ gr.ChatInterface(
 # import gradio as gr
 # from langchain.llms import GooglePalm
 
-# api_key = "AIzaSyCdM_aAIsW_nPbjarOF83mbX1_z1cVX2_M"
+# api_key = "google_api_key"
 
 # llm = GooglePalm(google_api_key = api_key, temperature=0.7)
 
