@@ -40,7 +40,7 @@ For Chitti, as a RAG application, it requires a Retrieval Model and a Generation
 
 **Open LLM Leaderboard (Generation Model)**
 
-[The Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) shows open-source models evaluated on 6 key benchmarks using Eleuther AI Language Model Evaluation Harness, a framework to test generative models on various tasks. In the leaderboard, the Large Language Models can range from having a few hundred million parameters to 140 billion parameters.
+[The Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) shows open-source models evaluated on 6 key benchmarks using [Eleuther AI Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness), a framework to test generative models on various tasks. In the leaderboard, the Large Language Models can range from having a few hundred million parameters to 140 billion parameters.
 
 **Local v. API**
 
